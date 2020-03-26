@@ -17,3 +17,17 @@
     font-weight: bold;
     width: 10em;
 }
+
+@media only screen and (max-width: 600px) {
+    .productCard{
+        display: flex;
+        flex-direction: column;
+    }
+  }
+
+  .select{
+      display: flex;
+      align-items: center;
+      flex-direction: row;
+      width: 5em;
+  }
