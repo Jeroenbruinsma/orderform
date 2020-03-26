@@ -1,0 +1,19 @@
+.productCard{
+    display: flex;
+    align-items: center;
+}
+.productCard p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.productCard input{
+    margin-left: 20px;
+}
+.productCard button{
+    background-color: aliceblue;
+    border-style: solid;
+}
+.productName{
+    font-weight: bold;
+    width: 10em;
+}
